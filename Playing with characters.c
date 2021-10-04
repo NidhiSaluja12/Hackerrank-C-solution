@@ -14,7 +14,7 @@ int main()
   scanf("%[^\n]%*c", &greet);
   printf("%c\n%s\n%s", C, lang, greet);
 
-  /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+  
   return 0;
 }
 
