@@ -23,8 +23,5 @@ int main() {
     return 0;
     
     
-    
-    //Complete the code to calculate the sum of the five digits on n.
-    
 }
 
