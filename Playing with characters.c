@@ -5,6 +5,7 @@
 
 int main() 
 {
+  
   char C;
   char lang[50];
   char greet[100];
@@ -13,7 +14,6 @@ int main()
   scanf("\n");
   scanf("%[^\n]%*c", &greet);
   printf("%c\n%s\n%s", C, lang, greet);
-
   
   return 0;
 }
